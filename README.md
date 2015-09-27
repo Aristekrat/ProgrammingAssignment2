@@ -1,3 +1,7 @@
+### I'm Just Doing the First Part of the Assignment
+
+I'm afraid I still have a lot to do this weekend so I can't give the R course all the love it will require. 
+
 ### Introduction
 
 This second programming assignment will require you to write an R
